@@ -42,35 +42,4 @@ https://github.com/infoshareacademy/jdszr12-databenders
 
 ## Insights from the exploratory data analysys 
 ###
-### 1. Generations, types and combat statistics frequency distributions:
 
-
-![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/7a721e6a-e11c-49d3-a5c5-1b583ea8d0b4)
-
-#### Almost 60 % of pokemon come from first, fifth and third generation, and only 20 % of pokemon come from sixth and seventh generation.
-
-![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/af328ac4-dfc7-40a7-a21e-4273dc9e3df4)
-
-#### The proportion of single type versus double type pokemon is balanced, 52%  of pokemon are double typed and 48% are single type.
-
-![image](https://github.com/Joanna-Reszka/World-of-Pokemon/assets/97312220/465e4ce6-c47d-4c09-a08d-1e56f9c1ee1b)
-
-#### Most frequent types are *Water*, *Normal*, *Grass* and *Flying*. The least frequent types are *Ice*, *Ghost* and *Dragon*.
-
-
-
-#### Weight and height are heavily right skewed with few extreme values on the right. Legendary pokemon seem to be enerally bigger (taller and heavier)
-
-
-### General insights
-
-#### Clearly 
-    
-### 3. Feature correlations
-
-
-
-
-## Conclusions and reccomendations
-
-#### The fascinating world of pokemon has revealed some of its secrets, but it would be interesting to check how the different strategies (balanced versus specialised) translate to combat skills, resiliancy and attack resistance.
